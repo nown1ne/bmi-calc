@@ -1,5 +1,6 @@
 # BMI-Calc
-This app calculates your Body Mass Index by taking in your height and weight.It is built using HTML, CSS, Javascript.    
+This app calculates your Body Mass Index by taking in your height and weight.It is built using HTML, CSS, Javascript.  
+Check it out live here https://nown1ne.github.io/bmi-calc/
 
 ![image](https://user-images.githubusercontent.com/25835195/204305226-3716bb7a-b718-4735-89bd-8d33b53eb6a7.png)
 
